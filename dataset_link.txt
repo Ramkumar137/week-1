@@ -1,0 +1,3 @@
+Dataset Name: Clean vs Dirty Water Dataset
+Source: Kaggle
+URL: https://www.kaggle.com/datasets/elvinagammed/clean-dirty-water-dataset
