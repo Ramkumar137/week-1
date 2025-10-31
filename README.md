@@ -1,4 +1,4 @@
-# 🌊 Water Pollution Detection using Image Classification (Sustainability Theme)
+# Water Pollution Detection using Image Classification (Sustainability Theme)
 
 ## Project Problem Statement
 The world is facing severe environmental degradation due to unsustainable consumption of natural resources, rapid urbanization, and pollution.  
@@ -64,6 +64,3 @@ Through automation and image-based analysis, it promotes:
 - **Internship Week:** 1  
 - **Internship Platform:** AICTE Virtual Internship – Python Domain  
 - **Student Name:** Ram Kumar  
-
-
-⭐ *This project is developed as part of the Week 1 Milestone under the Sustainability theme using Image Classification.*
